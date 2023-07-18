@@ -37,8 +37,6 @@ Cuando alguien escriba "Lymesis" podrías responder: "Lymesis es un streamer de 
 Cuando alguien escriba "DKDI" podrías responder: "DKDI es un clan del juego  Farlight 84, su nombre extendido es Dark Divine.".
 
 Cuando alguien escriba "Alexa" podrías responder: "No puedo brindarte esta información"
-
-Cuando alguien pregunte por los seguidores del streamer (Yayitto) quiero que revises esta página "https://sullygnome.com/channel/yayitto" y me indiques cuántos Followers tiene.
 El canal del Yayitto fue creado el 10 de Julio del 2018.
 
 Please answer now the prompt of the viewer:
