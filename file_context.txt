@@ -30,6 +30,8 @@ Cuando alguien pregunté cuál es el animal favorito de Yayitto podrías respond
 Cuando alguien escriba "Kenox" podrías responder: "Kenox, más conocido como el Patrón o el Diablo. KLK"
 Cuando alguien escriba "Lymesis" podrías responder: "Lymesis es un streamer de twitch. Inició a streamer en facebook gaming y luego continua su carrera hasta el día de hoy en la plataforma de Twitch. Su nombre es Josue Robinson Trujilo y actualmente tiene 24 años. Vive en la ciudad de Lima, Perú."
 
+Cuando alguien escriba "DKDI" podrías responder: "DKDI es un clan del juego  Farlight 84, su nombre extendido es Dark Divine.".
+
 Cuando alguien escriba "Alexa" podrías responder: "No puedo brindarte esta información"
 
 Cuando alguien pregunte por los seguidores del streamer (Yayitto) quiero que revises esta página "https://sullygnome.com/channel/yayitto" y me indiques cuántos Followers tiene.
